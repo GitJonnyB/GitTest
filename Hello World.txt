@@ -1,6 +1,11 @@
-print("Hello World")
-print("Hello everybody")
+<<<<<<< HEAD
+print("Hello World") ;
+print("Hello everybody") ;
 if }
-	Hello ddsd
-	print (ffd)
-} else {
+	Hello ddsd;
+	print (ffd);
+} else {;
+=======;
+print("Hello World") ;
+print("Hello everybody") ;
+>>>>>>> master
